@@ -1,0 +1,354 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"j",
+				"jbtBtnText\tproperty"
+			],
+			[
+				"pri",
+				"private\tkeyword"
+			],
+			[
+				"th",
+				"this\tkeyword"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"final",
+				"finalData"
+			],
+			[
+				"user",
+				"userInfo"
+			],
+			[
+				"m",
+				"mdDialog"
+			],
+			[
+				"theme",
+				"themeProvider"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"su",
+				"super"
+			],
+			[
+				"tren",
+				"trendingService"
+			],
+			[
+				"PostP",
+				"PostProjectPicture"
+			],
+			[
+				"Pro",
+				"ProjectPicture"
+			],
+			[
+				"Do",
+				"DonationAdmin"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 452.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/s/Desktop/a2template/my-app/package.json",
+		"/Users/s/Desktop/1RC6 Runnable Code a2website/index.html",
+		"/Users/s/Desktop/1RC6 Runnable Code a2website/app/app.module.ts",
+		"/Users/s/Desktop/1RC6 Runnable Code a2website/app/app.component.ts",
+		"/Users/s/Desktop/1RC6 Runnable Code a2website/app/app.routing.ts",
+		"/Users/s/Desktop/1RC6 Runnable Code a2website/app/main.js",
+		"/Users/s/Desktop/1RC6 Runnable Code a2website/app/components/navbar/navbar.component.html",
+		"/Users/s/Desktop/1RC6 Runnable Code a2website/app/components/pages/about.component.html",
+		"/Users/s/Desktop/1RC6 Runnable Code a2website/app/main.ts",
+		"/Users/s/Desktop/1RC6 Runnable Code a2website/app/components/pages/home.component.ts",
+		"/Users/s/Desktop/1RC6 Runnable Code a2website/app/components/pages/about.component.ts",
+		"/Users/s/Desktop/1RC6 Runnable Code a2website/app/components/pages/home.component.html",
+		"/Users/s/Desktop/1RC6 Runnable Code a2website/app/app.component.js",
+		"/Users/s/Desktop/a2website/my-app/src/app/about/about.component.html",
+		"/Users/s/Desktop/a2website/my-app/src/app/home/home.component.html",
+		"/Users/s/Desktop/a2website/my-app/src/app/app.component.html",
+		"/Users/s/Desktop/a2website/my-app/src/app/app.component.ts",
+		"/Users/s/Desktop/a2website/my-app/src/app/app.module.ts",
+		"/Users/s/Desktop/a2website/my-app/src/app/jumbotron/jumbotron.component.ts",
+		"/Users/s/Desktop/a2website/my-app/src/app/jumbotron/jumbotron.component.html",
+		"/Users/s/Desktop/a2website/my-app/src/app/app.component.css",
+		"/Users/s/Desktop/a2website/my-app/src/app/navbar/navbar.component.ts",
+		"/Users/s/Desktop/a2website/my-app/src/app/navbar/navbar.component.html",
+		"/Users/s/Desktop/a2website/my-app/src/app/navbar/navbar.component.spec.ts",
+		"/Users/s/Desktop/a2website/my-app/src/index.html",
+		"/Users/s/Desktop/a2website/my-app/src/main.ts",
+		"/Users/s/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/s/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/s/Desktop/Ang/first-app/package.json",
+		"/Users/s/Desktop/Ang/first-app/src/app/app.component.ts",
+		"/Users/s/Desktop/Ang/first-app/src/index.html",
+		"/Users/s/Desktop/Ang/first-app/src/app/app.module.ts",
+		"/Users/s/Desktop/Ang/first-app/src/main.ts",
+		"/Users/s/Desktop/Ang/first-app/src/tsconfig.json",
+		"/Users/s/Desktop/Ang/first-app/README.md",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/templates/custom.html",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/index.html",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/templates/directive-templates/tool-bar.html",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/templates/ngo.html",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/templates/ngoDialog.html",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/templates/trending.html",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/templates/projectDialog.html",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/templates/project.html",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/templates/home.html",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/scripts/controllers/homeContentCtrl.js",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/scripts/controllers/customCtrl.js",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/scripts/controllers/indexCtrl.js",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/scripts/route.js",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/scripts/controllers/projectCtrl.js",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/scripts/controllers/trendingCtrl.js",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/scripts/controllers/ngoCtrl.js",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/styles/common.css",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/styles/home.css",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/styles/project.css",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/styles/btns.min.css",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/scripts/theme.js",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/scripts/main.js",
+		"/Users/s/Documents/major/MAJOR MESS/angular-v1/styles/index.css",
+		"/Users/s/Desktop/angular-v1/scripts/lib/angular-material/angular-material.js",
+		"/Users/s/Desktop/angular-v1/templates/directive-templates/tool-bar.html",
+		"/Users/s/Desktop/angular-v1/scripts/controllers/projectCtrl.js",
+		"/Users/s/Desktop/angular-v1/index.html",
+		"/Users/s/Desktop/angular-v1/scripts/main.js",
+		"/Users/s/Desktop/angular-v1/styles/project.css",
+		"/Users/s/Desktop/angular-v1/styles/common.css",
+		"/Users/s/Desktop/angular-v1/templates/trending.html",
+		"/Users/s/Desktop/angular-v1/scripts/services/trendingService.js",
+		"/Users/s/Desktop/angular-v1/scripts/services/ngoService.js",
+		"/Users/s/Desktop/angular-v1/scripts/controllers/trendingCtrl.js",
+		"/Users/s/Desktop/angular-v1/scripts/controllers/homeContentCtrl.js",
+		"/Users/s/Desktop/angular-v1/templates/project.html",
+		"/Users/s/Desktop/angular-v1/scripts/controllers/indexCtrl.js",
+		"/Users/s/Desktop/angular-v1/scripts/services/projectsService.js",
+		"/Users/s/Desktop/angular-v1/templates/ngo.html",
+		"/Users/s/Desktop/angular-v1/templates/projectDialog.html",
+		"/Users/s/Desktop/angular-v1/foh-front.sublime-project",
+		"/Users/s/Desktop/angular-v1/scripts/controllers/customCtrl.js",
+		"/Users/s/Desktop/fundsofhope-back/fundsofhope/settings.py",
+		"/Users/s/Desktop/fundsofhope-back/fundsofhope/models.py",
+		"/Users/s/Desktop/fundsofhope-back/fundsofhope/templates/post_project.html",
+		"/Users/s/Desktop/fundsofhope-back/fundsofhope/templates/upload.html",
+		"/Users/s/Desktop/fundsofhope-back/fundsofhope/views.py",
+		"/Users/s/Desktop/fundsofhope-back/fundsofhope/urls.py",
+		"/Users/s/Desktop/fundsofhope-back/fundsofhope/admin.py",
+		"/Users/s/Desktop/fundsofhope-back/fundsofhope/forms.py",
+		"/Users/s/Desktop/MAJOR/FINAL/fundsofhope-backend/fohbackend.sublime-project",
+		"/Users/s/Desktop/MAJOR/FINAL/fundsofhope-backend/fundsofhope/views.py",
+		"/Users/s/Desktop/MAJOR/FINAL/fundsofhope-backend/fundsofhope/urls.py",
+		"/Users/s/Desktop/MAJOR/FINAL/fundsofhope-backend/fundsofhope/models.py",
+		"/Users/s/Desktop/MAJOR/FINAL/fundsofhope-backend/fundsofhope/forms.py",
+		"/Users/s/Desktop/MAJOR/FINAL/fundsofhope-backend/fundsofhope/templates/upload.html",
+		"/Users/s/Desktop/MAJOR/FINAL/fundsofhope-backend/fundsofhope/templates/post_projectpicture.html",
+		"/Users/s/Desktop/MAJOR/FINAL/fundsofhope-backend/fundsofhope/templates/post_project.html",
+		"/Users/s/Desktop/MAJOR/angular-v1/templates/directive-templates/tool-bar.html",
+		"/Users/s/Desktop/MAJOR/FINAL/fundsofhope-backend/fundsofhope/settings.py",
+		"/Users/s/Desktop/MAJOR/FINAL/fundsofhope-backend/fundsofhope/admin.py",
+		"/Users/s/Desktop/MAJOR/FINAL/fundsofhope-backend/fundsofhope/wsgi.py",
+		"/Users/s/Desktop/MAJOR/angular-v1/package.json",
+		"/Users/s/Desktop/MAJOR/angular-v1/bower.json"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"8",
+			"ng-click",
+			"background",
+			"mad",
+			"brandName",
+			"Good to see",
+			"Good to",
+			"lorem",
+			"loem",
+			"lorem",
+			"Funds",
+			"api",
+			"api.fund",
+			"http",
+			"httpt",
+			"user_id",
+			"Donation()"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"md"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 332.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -2,14 +2,14 @@
     <div class="col-md-12">
         <form>
             <div class="form-group">
-                <input class="form-control" type="text" placeholder="Enter A Github Username..." name="username" [(ngModel)]="username" (keyup)="searchUser()">    
+                <input class="form-control" type="text" placeholder="Search Github User Profiles" name="username" [(ngModel)]="username" (keyup)="searchUser()">    
             </div>    
         </form>    
     </div>
 </div>
 
 <div *ngIf="user">
-    <div class="panel panel-warning">
+    <div class="panel panel-info">
         <div class="panel-heading">
             <h3 class="panel-title">{{user.name}}</h3>
         </div>

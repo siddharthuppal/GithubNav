@@ -4,6 +4,54 @@
 		"selected_items":
 		[
 			[
+				"cl",
+				"client_secret\tproperty"
+			],
+			[
+				"u",
+				"user\tproperty"
+			],
+			[
+				"user",
+				"username\tproperty"
+			],
+			[
+				"con",
+				"console\tvar"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"lab",
+				"label-primary"
+			],
+			[
+				"col-",
+				"col-md-8"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"St",
+				"String\tinterface"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"ret",
+				"return\tkeyword"
+			],
+			[
 				"j",
 				"jbtBtnText\tproperty"
 			],
@@ -26,10 +74,6 @@
 			[
 				"final",
 				"finalData"
-			],
-			[
-				"user",
-				"userInfo"
 			],
 			[
 				"m",
@@ -113,12 +157,19 @@
 	"file_history":
 	[
 		"/Users/s/Desktop/githubapp/githubApp/src/styles.css",
-		"/Users/s/Desktop/githubapp/githubApp/src/app/app.component.html",
-		"/Users/s/Desktop/githubapp/githubApp/src/app/app.component.css",
-		"/Users/s/Desktop/githubapp/githubApp/src/app/app.component.ts",
 		"/Users/s/Desktop/githubapp/githubApp/src/app/profile/profile.component.html",
-		"/Users/s/Desktop/githubapp/githubApp/src/app/app.module.ts",
+		"/Users/s/Desktop/githubapp/githubApp/src/app/app.component.html",
+		"/Users/s/Desktop/githubapp/githubApp/src/index.html",
+		"/Users/s/Desktop/githubapp/githubApp/src/main.ts",
+		"/Users/s/Desktop/githubapp/githubApp/src/app/github.service.ts",
 		"/Users/s/Desktop/githubapp/githubApp/src/app/profile/profile.component.ts",
+		"/Users/s/Desktop/githubapp/githubApp/src/app/app.component.ts",
+		"/Users/s/Desktop/githubapp/githubApp/src/app/github.service.spec.ts",
+		"/Users/s/Desktop/githubapp/githubApp/src/app/app.module.ts",
+		"/Users/s/Desktop/githubapp/githubApp/src/app/profile/profile.component.spec.ts",
+		"/Users/s/Desktop/githubapp/githubApp/src/app/profile/profile.component.css",
+		"/Users/s/Desktop/githubapp/githubApp/src/app/app.component.spec.ts",
+		"/Users/s/Desktop/githubapp/githubApp/src/app/app.component.css",
 		"/Users/s/Desktop/a2template/my-app/package.json",
 		"/Users/s/Desktop/1RC6 Runnable Code a2website/index.html",
 		"/Users/s/Desktop/1RC6 Runnable Code a2website/app/app.module.ts",
@@ -221,7 +272,7 @@
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -236,6 +287,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ngM",
 			"8",
 			"ng-click",
 			"background",
@@ -367,7 +419,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 332.0,
+	"side_bar_width": 217.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

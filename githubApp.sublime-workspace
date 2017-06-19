@@ -102,8 +102,23 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/s/Desktop/githubapp",
+		"/Users/s/Desktop/githubapp/githubApp",
+		"/Users/s/Desktop/githubapp/githubApp/src",
+		"/Users/s/Desktop/githubapp/githubApp/src/app",
+		"/Users/s/Desktop/githubapp/githubApp/src/app/profile"
+	],
 	"file_history":
 	[
+		"/Users/s/Desktop/githubapp/githubApp/src/styles.css",
+		"/Users/s/Desktop/githubapp/githubApp/src/app/app.component.html",
+		"/Users/s/Desktop/githubapp/githubApp/src/app/app.component.css",
+		"/Users/s/Desktop/githubapp/githubApp/src/app/app.component.ts",
+		"/Users/s/Desktop/githubapp/githubApp/src/app/profile/profile.component.html",
+		"/Users/s/Desktop/githubapp/githubApp/src/app/app.module.ts",
+		"/Users/s/Desktop/githubapp/githubApp/src/app/profile/profile.component.ts",
 		"/Users/s/Desktop/a2template/my-app/package.json",
 		"/Users/s/Desktop/1RC6 Runnable Code a2website/index.html",
 		"/Users/s/Desktop/1RC6 Runnable Code a2website/app/app.module.ts",
@@ -253,6 +268,12 @@
 		"whole_word": false,
 		"wrap": true
 	},
+	"folders":
+	[
+		{
+			"path": "/Users/s/Desktop/githubapp"
+		}
+	],
 	"groups":
 	[
 		{

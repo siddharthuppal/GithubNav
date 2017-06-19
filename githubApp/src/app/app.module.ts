@@ -5,6 +5,9 @@ import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
 import { ProfileComponent } from './profile/profile.component';
+import { GithubService } from './github.service';
+
+
 
 @NgModule({
   declarations: [
@@ -16,7 +19,7 @@ import { ProfileComponent } from './profile/profile.component';
     FormsModule,
     HttpModule
   ],
-  providers: [],
+  providers: [GithubService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
